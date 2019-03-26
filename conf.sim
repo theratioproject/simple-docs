@@ -1,0 +1,18 @@
+
+
+project = 'simple-lang'
+copyright = '2018-2019 by Simple Collectives'
+author = 'Azeez Adewale'
+version = '0.1'
+
+akosileOptions = []
+
+akosileExtraConfs = [
+	"../simple/modules/conf.sim",
+	"../simple/examples/conf.sim"
+]
+
+akosileExclude = []
+akosileFiles = []
+akosileSpecialFiles = []
+akosileSpecialFileOptions = []
