@@ -62,7 +62,7 @@ class SimpleLexer(RegexLexer):
     ]
 
     types = [
-        'list', 'string', 'number'
+        'list', 'string', 'number', 'int'
 	]
 
     tokens = {

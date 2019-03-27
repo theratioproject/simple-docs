@@ -26,12 +26,12 @@ templates_path = ['_templates']
 source_suffix = '.rst'
 master_doc = 'index'
 
-project = u'Simple Modules'
+project = u'Simple'
 copyright = u'2018-2019, Azeez Adewale and the Simple community (MIT)'
 author = u'Azeez Adewale'
 
-version = '0.2'
-release = 'latest'
+version = '0.1.0'
+release = '0.1.0'
 
 language = 'en'
 

@@ -1,0 +1,6 @@
+
+.. index:: 
+	single: Class
+	
+Class
+===========

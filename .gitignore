@@ -56,4 +56,4 @@ dkms.conf
 
 #Build folders
 build/
-
+*/build/
