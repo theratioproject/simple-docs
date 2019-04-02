@@ -11,22 +11,24 @@ The Documentation for SIMPLE (Simple Intelligent and Modular Programming Languag
 
    general/about/index
    general/about/introduction
+   general/about/faq
    general/simple_tour/index
    general/syntax/index
 
-..	.. toctree::
-..	   :maxdepth: 1
-..	   :caption: Standard Modules
-..	   :name: sec-modules
+.. toctree::
+	   :maxdepth: 1
+	   :caption: Standard Modules
+	   :name: sec-modules
 
-..	   modules/index
-..	   modules/simple <modules/simple/index.rst>
+	   modules/index
+	   simple <modules/simple/index>
+	   simple.util <modules/simple/util/index>
 
-..	.. toctree::
-..	   :maxdepth: 1
-..	   :caption: Examples
-..	   :name: sec-examples
+.. toctree::
+	   :maxdepth: 1
+	   :caption: Examples
+	   :name: sec-examples
 
-..	   examples/index
-..	   examples/intermediate <examples/intermediate/index.rst>
+	   examples/index
+	   examples/intermediate/index
    

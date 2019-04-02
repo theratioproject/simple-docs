@@ -10,3 +10,4 @@ About
    :name: toc-about
 
    introduction
+   faq

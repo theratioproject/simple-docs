@@ -10,7 +10,7 @@ import simple_lexer
 
 # Pygments (syntax highlighting) style to use
 pygments_style = 'sphinx'
-highlight_language = 'simple'
+#highlight_language = 'simple'
 	
 extensions = [
     'sphinx.ext.autodoc',
